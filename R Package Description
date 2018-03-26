@@ -1,0 +1,7 @@
+Package: Missdateval
+Title: Evaluates dataset information to suggest best course of action with analysis.
+Authors@R: Salach Jennifer <salach@mail.usf.edu> j<- c(person(“Jennifer”, “Salach”, role= “aut”).
+Description: Reads input data and gives a number of diagnostics, such as percentage of missing data, patterns of missingness, MCAR, MAR, or MNAR, etc… Asks user for data characteristics (e.g. longitudinal study, categorical or continuous data, hypothesis testing or preliminary analysis) to suggest treatment for missingness. Specifies details of suggested treatment (e.g. number of imputations to compute for MI).
+Depends: R(>= 3.1.2)
+License: CCO.
+LazyData: true
